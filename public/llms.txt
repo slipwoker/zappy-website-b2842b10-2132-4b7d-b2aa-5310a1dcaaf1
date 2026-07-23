@@ -1,0 +1,89 @@
+# א.פיאד חלפי חורה — Generative Engine Optimization Map
+
+> An automotive parts business focused on selling car spare parts. The business operates in the automotive aftermarket industry, supplying replacement parts for vehicles.
+
+---
+
+## Pages
+
+### בית
+https://-b2842b10.zappy5.app
+מחפשים חנות חלקי רכב אמינה? בא.פיאד חלפי חורה תמצאו חלקי חילוף איכותיים לכל סוגי הרכב במחירים משתלמים. היכנסו עכשיו לקטלוג העצום שלנו!
+
+### שירותים
+https://-b2842b10.zappy5.app/services
+גלו את מגוון השירותים שלנו: ייעוץ מקצועי, איתור חלקי חילוף נדירים ומשלוחים מהירים. אנחנו דואגים שהרכב שלכם יישאר על הכביש. צרו קשר עוד היום!
+
+### אודות
+https://-b2842b10.zappy5.app/about
+א.פיאד חלפי חורה – עסק משפחתי עם ותק של שנים באספקת חלקי רכב. אנחנו מביאים ניסיון, אמינות ומקצועיות לכל לקוח. הכירו את הצוות שמאחורי ההגה.
+
+### צור קשר
+https://-b2842b10.zappy5.app/contact
+צריכים חלק ספציפי לרכב? צרו קשר עכשיו עם א.פיאד חלפי חורה! אנחנו זמינים לתת מענה מהיר ומקצועי לכל שאלה או הזמנה. החלק שלכם מחכה פה.
+
+### Products
+https://-b2842b10.zappy5.app/products
+המוצרים שלנו - א.פיאד חלפי חורה
+
+### Product Detail
+https://-b2842b10.zappy5.app/product/:slug
+פרטי המוצר - א.פיאד חלפי חורה
+
+### Category
+https://-b2842b10.zappy5.app/category/:slug
+מוצרים - א.פיאד חלפי חורה
+
+### תודה שפניתם אלינו
+https://-b2842b10.zappy5.app/thank-you
+א.פיאד חלפי חורה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b2842b10.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b2842b10.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b2842b10.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.פיאד חלפי חורה
+An automotive parts business focused on selling car spare parts. The business operates in the automotive aftermarket industry, supplying replacement parts for vehicles.
+
+## Services/Products
+- חלקי חילוף לרכב
+
+## Target Audience
+- אנשי מקצוע בתחום תחזוקת רכב
+- חובבי רכב
+- סוחרי רכבים משומשים
+- בעלי ציי רכבים
+- נהגים באזורים כפריים
+
+## Industry
+Automotive Parts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-b2842b10.zappy5.app/sitemap.xml
+- Robots: https://-b2842b10.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-b2842b10.zappy5.app/llms-full.txt
+- Products (JSON): https://-b2842b10.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-b2842b10.zappy5.app/product-feed.xml
