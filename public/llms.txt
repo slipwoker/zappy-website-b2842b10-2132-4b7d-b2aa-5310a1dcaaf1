@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-b2842b10.zappy5.app
+https://example.com
 מחפשים חנות חלקי רכב אמינה? בא.פיאד חלפי חורה תמצאו חלקי חילוף איכותיים לכל סוגי הרכב במחירים משתלמים. היכנסו עכשיו לקטלוג העצום שלנו!
 
 ### שירותים
-https://-b2842b10.zappy5.app/services
+https://example.com/services
 גלו את מגוון השירותים שלנו: ייעוץ מקצועי, איתור חלקי חילוף נדירים ומשלוחים מהירים. אנחנו דואגים שהרכב שלכם יישאר על הכביש. צרו קשר עוד היום!
 
 ### אודות
-https://-b2842b10.zappy5.app/about
+https://example.com/about
 א.פיאד חלפי חורה – עסק משפחתי עם ותק של שנים באספקת חלקי רכב. אנחנו מביאים ניסיון, אמינות ומקצועיות לכל לקוח. הכירו את הצוות שמאחורי ההגה.
 
 ### צור קשר
-https://-b2842b10.zappy5.app/contact
+https://example.com/contact
 צריכים חלק ספציפי לרכב? צרו קשר עכשיו עם א.פיאד חלפי חורה! אנחנו זמינים לתת מענה מהיר ומקצועי לכל שאלה או הזמנה. החלק שלכם מחכה פה.
 
 ### Products
-https://-b2842b10.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - א.פיאד חלפי חורה
 
 ### Product Detail
-https://-b2842b10.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - א.פיאד חלפי חורה
 
 ### Category
-https://-b2842b10.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - א.פיאד חלפי חורה
 
 ### תודה שפניתם אלינו
-https://-b2842b10.zappy5.app/thank-you
+https://example.com/thank-you
 א.פיאד חלפי חורה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b2842b10.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b2842b10.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b2842b10.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -82,8 +82,8 @@ Automotive Parts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-b2842b10.zappy5.app/sitemap.xml
-- Robots: https://-b2842b10.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-b2842b10.zappy5.app/llms-full.txt
-- Products (JSON): https://-b2842b10.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-b2842b10.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
