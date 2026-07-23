@@ -4,6 +4,20 @@
     <title>א.פיאד חלפי חורה</title>
     <link>https://example.com</link>
     <description>Product feed for א.פיאד חלפי חורה</description>
-    <lastBuildDate>Thu, 23 Jul 2026 08:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:35:06 GMT</lastBuildDate>
+    <item>
+      <g:id>fbbef586-b7b8-4232-b7d8-a5792e9a8e72</g:id>
+      <g:title>קומפרסור 4 בוכנות מקצועי </g:title>
+      <g:description>קומפרסור 4 בוכנות מקצועי&amp;nbsp;12V</g:description>
+      <g:link>https://example.com/product/kvmprsvr-4-bvknvt-mktsvay-cs7tv5</g:link>
+      <g:image_link>https://example.com/assets/product-enhanced-1784795340475-til83j.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1784795353544-inqbmh.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1300.00 ILS</g:price>
+      <g:sale_price>1100.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>א.פיאד חלפי חורה</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
